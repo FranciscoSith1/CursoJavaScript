@@ -15,4 +15,4 @@ const libro = {
 
 const tareaList = [nombre, edad, desarrollador,fNacimiento,libro];
 
-console.log(libro.tareaList);
+console.log(tareaList);
